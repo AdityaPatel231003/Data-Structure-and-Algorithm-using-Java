@@ -1,5 +1,4 @@
-
-#This repository is dedicated to improving understanding of  data structures and algorithms [using Java]
+# This repository is dedicated to improving understanding of  data structures and algorithms.
 
 **PROGRAMS:** <p>A set of instructions that you give to a computer so that it will do a particular task is a program.</p>
 
